@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+transformers
+peft
+bitsandbytes
+sentence-transformers
+faiss-cpu
+langchain
+streamlit
+torch
