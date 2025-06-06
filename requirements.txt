@@ -1,10 +1,12 @@
 fastapi
-uvicorn[standard]
+uvicorn
 transformers
 peft
-bitsandbytes
 sentence-transformers
 faiss-cpu
-langchain
-streamlit
 torch
+streamlit
+requests
+langchain
+langgraph
+openai
